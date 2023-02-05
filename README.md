@@ -1,9 +1,11 @@
+![image](https://user-images.githubusercontent.com/90528783/214718092-9121e97d-04d9-4f23-a68c-8d596bd5fc30.png)
+
+Figma File- https://www.figma.com/file/lz9lLpFHMxHm2odnwM3R0z/gpt3?node-id=0%3A1&t=YjohtC4mOVLEYVOi-0
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-
-![image](https://user-images.githubusercontent.com/90528783/214718092-9121e97d-04d9-4f23-a68c-8d596bd5fc30.png)
 
 
 ## Available Scripts
