@@ -35,6 +35,7 @@
 /* Customizing feature component as per needs */
 .gpt3__whatgpt3-feature .gpt3__features-container_feature-text {
     max-width: 700px;
+
 }
 
 .gpt3__whatgpt3-heading {
@@ -57,7 +58,7 @@
 .gpt3__whatgpt3-heading p {
     font-family: var(--font-family);
     font-weight: 500;
-    font-size: 24px;
+    font-size: 40px;
     line-height: 30px;
     color: var(--color-subtext);
     cursor: pointer;
@@ -85,7 +86,7 @@
 /* Customizing feature component as per needs */
 .gpt3__whatgpt3-container .gpt3__features-container_feature-text p {
     margin-top: 0.5rem;
-    font-size: 24px;
+    font-size: 20px;
 
 }
 

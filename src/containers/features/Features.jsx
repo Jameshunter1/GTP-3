@@ -5,15 +5,15 @@ import './features.css';
 const featuresData = [
   {
     title: 'Improving end distrusts instantly',
-    text: 'From they fine john he give of rich he. They age and draw mrs like. Improving end distrusts may instantly was household applauded.',
+    text: 'End-to-end trust in AI systems is crucial for the widespread adoption of these technologies. ',
   },
   {
     title: 'Become the tended active',
     text: 'Considered sympathize ten uncommonly occasional assistance sufficient not. Letter of on become he tended active enable to.',
   },
   {
-    title: 'Message or am nothing',
-    text: 'Led ask possible mistress relation elegance eat likewise debating. By message or am nothing amongst chiefly address.',
+    title: 'The future is now',
+    text: 'AI solutions are a diverse set of technologies and applications that leverage artificial intelligence to solve problems and automate tasks.',
   },
   {
     title: 'Really boy law county',
