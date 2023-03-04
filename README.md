@@ -1,3 +1,6 @@
+
+## GPT-3
+
 A modern, fully responsive UI/UX website built using React JS and the CSS BEM model. The goal of the project is to create a website from a figma file with a clean, modern design that looks great on any device.
 
 
