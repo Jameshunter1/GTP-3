@@ -1,3 +1,6 @@
+A modern, fully responsive UI/UX website built using React JS and the CSS BEM model. The goal of the project is to create a website from a figma file with a clean, modern design that looks great on any device.
+
+
 ![image](https://user-images.githubusercontent.com/90528783/214718092-9121e97d-04d9-4f23-a68c-8d596bd5fc30.png)
 
 Figma File- https://www.figma.com/file/lz9lLpFHMxHm2odnwM3R0z/gpt3?node-id=0%3A1&t=YjohtC4mOVLEYVOi-0
